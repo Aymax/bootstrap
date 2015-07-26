@@ -1,0 +1,16 @@
+{
+  "name": "angular-ui-bootstrap",
+  "version": "0.13.1",
+  "homepage": "https://github.com/Aymax/bootstrap",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
